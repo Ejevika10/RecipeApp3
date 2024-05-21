@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DataService.isInFav(userId:itemId:completion:):DataService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ItemView.body.getter:ItemView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DataService.getRatings(itemId:userId:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "snapshot">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
